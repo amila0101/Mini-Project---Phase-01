@@ -63,7 +63,7 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ### Authors
-- Your Name - reZcipE - [reZcipE](https://github.com/amila0101)
+- reZcipE - [reZcipE](https://github.com/amila0101)
 - Team Members -
   [Iresh](https://github.com/Iresh-maduwantha)
  [Bumindu]()
