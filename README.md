@@ -48,21 +48,10 @@ The app includes the following interfaces and functionality:
 - Users can rate and review services, destinations, and experiences.
 - Integration of feedback to improve the service.
 
-### MSP (Main Service Page)
-- Displays available packages, services, and destinations for users to explore and book.
+### Map
+- Displays available destinations for users to explore and book.
 
-## Installation
-
-To get started with the project, follow these steps:
-
-### Prerequisites
-- Android Studio
-- Kotlin support enabled
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-### Authors
+## Authors
 - reZcipE - [reZcipE](https://github.com/amila0101)
 - Team Members -
   [Iresh](https://github.com/Iresh-maduwantha)
@@ -71,9 +60,20 @@ This project is licensed under the MIT License - see the LICENSE file for detail
   [Levindu](https://github.com/Mlthathsara)
     
 
-### Acknowledgments
+## Acknowledgments
 Hat tip to anyone whose code is used in the project.
 Inspiration from various travel apps and UI design sources.
+
+
+
+
+## Installation
+
+To get started with the project, follow these steps:
+
+### Prerequisites
+- Android Studio
+- Kotlin support enabled
 
 ### Clone the Repository
 To clone the repository, run the following command:
